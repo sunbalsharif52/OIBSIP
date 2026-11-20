@@ -78,9 +78,9 @@ The notebook includes the following visualizations:
 
 House-Price-Prediction/
 │
-├── housing_data.csv
-├── House_Price_Prediction.ipynb
+├── housing_data.csv House_Price_Prediction.ipynb
 ├── README.md
+├── housing_data.csv 
 
 ---
 
