@@ -23,8 +23,8 @@ Sales Report.xlsx
 
 ## *Folder Structure*
 OIBSIP/DataAnalytics-L1-EDARetailSales/
-│── EDA_Retail_Sales.ipynb  
-│── Sales Report.xlsx  
+│── All Sales Report.xlsx
+│── EDA_Retail_Sales.ipynb 
 │── README.md  
 
 ## *Author*
